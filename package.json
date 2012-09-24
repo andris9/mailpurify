@@ -1,0 +1,19 @@
+{
+  "name": "mailpurify",
+  "version": "0.1.0",
+  "description": "Tidy e-mail HTML contents",
+  "main": "index.js",
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "repository": "",
+  "author": "Andris Reinman",
+  "license": "MIT",
+  "dependencies": {
+    "jsdom": "*"
+  },
+  "devDependencies": {
+    "nodeunit": "*",
+    "mailparser": "*"
+  }
+}
