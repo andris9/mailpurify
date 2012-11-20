@@ -4,4 +4,4 @@ module.exports.indentText = function(text, callback){
     callback(null, indentText(text));
 };
 
-module.exports.indentHTML = require(".lib/html").indentHTML;
+module.exports.indentHTML = require("./lib/html").indentHTML;
