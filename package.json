@@ -1,6 +1,6 @@
 {
   "name": "mailpurify",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "Tidy e-mail HTML contents",
   "main": "index.js",
   "scripts": {
@@ -10,7 +10,6 @@
   "author": "Andris Reinman",
   "license": "MIT",
   "dependencies": {
-    "jsdom": "*"
   },
   "devDependencies": {
     "nodeunit": "*",
