@@ -1,6 +1,6 @@
 {
   "name": "mailpurify",
-  "version": "0.1.4",
+  "version": "0.1.5",
   "description": "Convert plaintext e-mail body to HTML",
   "main": "index.js",
   "scripts": {
